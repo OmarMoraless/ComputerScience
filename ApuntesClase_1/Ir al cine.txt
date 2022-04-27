@@ -1,0 +1,18 @@
+1. Ver si ya esta disponible la pelicula
+2. Si esta disponible, buscar un horario adecuado para mi
+3. Si el horario esta disponible, pasar a escoger los asientos
+4. Si ya estan elegidos pasar a realizar la compra
+5. Seleccionar un metodo de pago e ingresar los datos requeridos
+6. Si proceso el pago, guardar los boletos que me envien
+7. Si el pago no se proceso, utilizar otro metodo de pago
+8. Ingresar el metodo de pago alternativo
+9. paso 6
+10. Esperar a la fecha y hora de la funcion
+11. Si el cine esta lejos, tomar transporte
+12. si el cine esta cerca, tomar transporte o caminar
+13. Llegar al cine
+14. Si tienes hambre, ir a la dulceria a comprar
+14. Si no tienes hambre, dirigirte a la sala indicada en tu boleto
+14. Entrar a la sala.
+15. Buscar los asientos y dirigirse a ellos
+16. Sentarse y esperar a que comience la pelicula.
